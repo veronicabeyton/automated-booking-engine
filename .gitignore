@@ -1,0 +1,11 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Clasp / Apps Script local configs
+.clasprc.json
+.clasp.json
+
+# IDE settings
+.vscode/
+.idea/
